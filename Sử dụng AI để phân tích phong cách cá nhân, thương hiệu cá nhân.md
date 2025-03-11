@@ -1,0 +1,7 @@
+Bạn được giao nhiệm vụ xác định các công cụ hoặc công nghệ AI có thể phân tích các cuộc phỏng vấn video được thực hiện trên các nền tảng như Zoom và Google Meet để đánh giá đặc điểm và mức độ phù hợp của ứng viên với một vị trí tuyển dụng.
+Nghiên cứu và xác định bất kỳ giải pháp nào dựa trên AI thực hiện phân tích video và đánh giá ứng viên để cung cấp thông tin chi tiết về tính cách, hành vi và sự phù hợp của họ với một vai trò cụ thể.
+Nếu các công cụ AI như vậy tồn tại, hãy cung cấp một cái nhìn tổng quan chi tiết về tính năng, khả năng và hạn chế của chúng. Bao gồm các nền tảng hoặc dịch vụ cụ thể, mức độ dễ tích hợp và cách chúng có thể được áp dụng trong bối cảnh HR và tuyển dụng.
+Thảo luận về bất kỳ cân nhắc đạo đức hoặc thiên kiến tiềm ẩn nào có thể xảy ra khi sử dụng AI để phân tích đặc điểm con người và sự phù hợp trong các cuộc phỏng vấn.
+Đề xuất các thực hành tốt nhất hoặc tài nguyên bổ sung (như bài viết, trang web hoặc báo cáo) để một nhà quản lý HR có thể tích hợp AI hiệu quả vào quá trình phỏng vấn và tuyển dụng trong khi đảm bảo công bằng và chính xác.
+Xem xét các phương pháp thay thế nếu các công cụ AI chuyên dụng như vậy bị hạn chế hoặc không dễ tiếp cận, chẳng hạn như kết hợp nhiều công cụ hoặc điều chỉnh các thực hành hiện tại để nâng cao phân tích phỏng vấn.
+Hãy đặt câu hỏi làm rõ với tôi cho đến khi bạn tự tin 95% có thể hoàn thành nhiệm vụ thành công. Hít thở sâu và thực hiện từng bước. Nhớ tìm kiếm thông tin cập nhật trên internet.
